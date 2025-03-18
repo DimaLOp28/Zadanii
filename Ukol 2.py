@@ -10,4 +10,4 @@ quot_result = num1 / num2
 print(f"Součet: {sum_result:.2f}")
 print(f"Rozdil: {diff_result:.2f}")
 print(f"Součin: {prod_result:.2f}")
-print(f"Podil: {quot_result:.2f}" 
+print(f"Podil: {quot_result:.2f}")
